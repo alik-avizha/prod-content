@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/alik-avizha/content-schema/refs/heads/main/schemas/nutrack.schema.json?token=GHSAT0AAAAAADLTWSZ5Y2WZNPBGIJJZT5EC2JBUOMA
+id: "cmia8ejsy000700i06cde12au"
+title: "Test nutrack"
+description: |
+  ## Course the best
+  - 1
+  - 2 
+  - [3](http://google.com)
+activities:
+  - "activity-1"
