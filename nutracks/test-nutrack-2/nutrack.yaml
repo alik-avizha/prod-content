@@ -1,5 +1,5 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/alik-avizha/content-schema/refs/heads/main/schemas/nutrack.schema.json
-id: "cmia8ejsy000700i06cde12au"
+id: "cmia8ejsy000700i06cde1fdssd"
 title: "Single-spa: Microfrontend Architecture"
 description: |
   ## single-spa — архитектура микрофронтендов
@@ -174,7 +174,7 @@ description: |
 
   start();
   
-  ```
+  ```ts
 
   ## Итог
 
@@ -185,4 +185,4 @@ description: |
   - контроль над ростом приложения
 
 activities:
-  - "activity-1"
+  - "activity-2"
