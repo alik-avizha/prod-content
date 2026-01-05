@@ -1,4 +1,3 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/alik-avizha/content-schema/refs/heads/main/schemas/manifest.schema.json?token=GHSAT0AAAAAADLTWSZ56GHT7YYDJ24254GA2JBULRQ
 nutracks:
   - "test-nutrack-1"
-#  - "test-nutrack-2"
